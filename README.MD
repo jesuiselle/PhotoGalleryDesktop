@@ -2,7 +2,7 @@
 
 Angular is a framework which allows you to create reactive single page application.  It's only one Html file and a bunch of code we got from the server and every change is rendered in the browser. Angular 5 currently is the latest version. 
 
-## Demo please check this link (https://photogallerydesktop.firebaseapp.com)
+## Demo (please check this link : https://photogallerydesktop.firebaseapp.com)
 
 ## Setup
 
