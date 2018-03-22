@@ -17,7 +17,7 @@ In case you're not with the latest version of npm:
  npm install npm -g  
 ```
 
-######Once you are done we need to install angular CLI 
+###### Once you are done we need to install angular CLI 
 We simply need node.js because the CLI needs it. Behind the scenes it does some things with it to build our project and to manage our dependencies and the packages we use like the angular framework itself.
 
 why we use CLI and not just import the angular to framework in an existing index HVM  page?
@@ -53,4 +53,4 @@ ________________________________________________________________________________
 ![alt tag](https://raw.githubusercontent.com/jesuiselle/PhotoGalleryDesktop/master/src/assets/picture1.PNG?token=AQnl8Tm1Yl78eJmsH-XCxL0qttS-HEtHks5avSCYwA%3D%3D)
 __________________________________________________________________________________________________________________
 
-![alt tag](https://raw.githubusercontent.com/jesuiselle/PhotoGalleryDesktop/master/src/assets/picture2.PNG?token=AQnl8Tm1Yl78eJmsH-XCxL0qttS-HEtHks5avSCYwA%3D%3D)
+![alt tag](https://raw.githubusercontent.com/jesuiselle/PhotoGalleryDesktop/master/src/assets/picture2.PNG?token=AQnl8ckr025WiGBK_wAr0hCrvOYf_adwks5avSsYwA%3D%3D)
