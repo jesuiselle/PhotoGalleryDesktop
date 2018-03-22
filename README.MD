@@ -31,7 +31,7 @@ npm install -g @angular/cli
 ```
 what this will do is it will build all our source code as or uses typescript which needs to be compiled to javascript.
 
-##### Once you clone this repository, run this command on your terminal to install all needed dependencies:
+#### Once you clone this repository, run this command on your terminal to install all needed dependencies:
 ## Install NPM Dependencies
 
 ```sh
