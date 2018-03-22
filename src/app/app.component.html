@@ -2,7 +2,9 @@
   <h2>Photo Gallery</h2>
   <p class="container" gallerize>
     <span *ngFor="let img of result">
-      <textarea rows="7" cols="20" style="border: none;resize: none; background: transparent;" disabled>{{img.title}} {{img.description}}</textarea>
+      <textarea rows="7" cols="20" disabled>
+        {{img.title}}
+        {{img.description}}</textarea>
       <img [src]="img.url" alt="">
     </span>
   </p>
